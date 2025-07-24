@@ -113,10 +113,10 @@ chmod +x v4freedom_x86_64.AppImage
 ## System Requirements
 
 - **Windows**: Windows 10 or later
-- **macOS**: macOS 10.14 or later
+- **macOS**: macOS 15.0 or later
 - **Linux**: 64-bit distribution with glibc 2.17+
 - **Android**: Android 6.0 (API level 23) or later
-- **iOS**: iOS 10.14 or later
+- **iOS**: iOS 15.5 or later
 
 
 ## Support
