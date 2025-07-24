@@ -1,4 +1,4 @@
-# V4Freedom
+# v4freedom
 
 A free cross-platform application for secure internet access and privacy protection.
 
